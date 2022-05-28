@@ -8,12 +8,12 @@ body {
 	height: 654px;
 	margin: auto;
 	background: url("board.jpg") no-repeat;
-	border: 1px solid #303436;
+	border: 5px solid #303436;
 } 
 #messageArea {
 	position: absolute;
 	width: 300px;
-	height: 20px;
+	height: 30px;
 	top: 0px;
 	padding: 15px;
 	right: 0;
@@ -36,12 +36,13 @@ form {
 	top: 0px;
 	left: 0px;
 	padding: 15px;
-	background-color: #babcbb;
+	background-color: lightgreen;
 }
 form input {
 	background-color: #dbe4e8;
 	border-color: #748082;
-	font-size: 1em;	
+	font-size: 1.1em;	
+    border-radius: 7%;
 }
 .hit {
 	background: url("ship.png") no-repeat center center;
