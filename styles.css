@@ -1,5 +1,5 @@
 body {
-	background-color: silver;
+	background-color: lightblue;
 }
 
 #board {
@@ -17,9 +17,9 @@ body {
 	top: 0px;
 	padding: 15px;
 	right: 0;
-	color: #303436;
+	color: green;
 	font-size: 1em;
-	background-color: #dbe4e8;
+	background-color: lightgreen;
 }
 table {
 	position: absolute;
